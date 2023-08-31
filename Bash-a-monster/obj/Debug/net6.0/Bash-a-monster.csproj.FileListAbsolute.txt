@@ -1,0 +1,15 @@
+c:\Users\felixwilhelm.stalo\Documents\programering\c#_DEV\Bash-a-Monster\Bash-a-monster\bin\Debug\net6.0\Bash-a-monster.exe
+c:\Users\felixwilhelm.stalo\Documents\programering\c#_DEV\Bash-a-Monster\Bash-a-monster\bin\Debug\net6.0\Bash-a-monster.deps.json
+c:\Users\felixwilhelm.stalo\Documents\programering\c#_DEV\Bash-a-Monster\Bash-a-monster\bin\Debug\net6.0\Bash-a-monster.runtimeconfig.json
+c:\Users\felixwilhelm.stalo\Documents\programering\c#_DEV\Bash-a-Monster\Bash-a-monster\bin\Debug\net6.0\Bash-a-monster.dll
+c:\Users\felixwilhelm.stalo\Documents\programering\c#_DEV\Bash-a-Monster\Bash-a-monster\bin\Debug\net6.0\Bash-a-monster.pdb
+c:\Users\felixwilhelm.stalo\Documents\programering\c#_DEV\Bash-a-Monster\Bash-a-monster\obj\Debug\net6.0\Bash-a-monster.csproj.AssemblyReference.cache
+c:\Users\felixwilhelm.stalo\Documents\programering\c#_DEV\Bash-a-Monster\Bash-a-monster\obj\Debug\net6.0\Bash-a-monster.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\felixwilhelm.stalo\Documents\programering\c#_DEV\Bash-a-Monster\Bash-a-monster\obj\Debug\net6.0\Bash-a-monster.AssemblyInfoInputs.cache
+c:\Users\felixwilhelm.stalo\Documents\programering\c#_DEV\Bash-a-Monster\Bash-a-monster\obj\Debug\net6.0\Bash-a-monster.AssemblyInfo.cs
+c:\Users\felixwilhelm.stalo\Documents\programering\c#_DEV\Bash-a-Monster\Bash-a-monster\obj\Debug\net6.0\Bash-a-monster.csproj.CoreCompileInputs.cache
+c:\Users\felixwilhelm.stalo\Documents\programering\c#_DEV\Bash-a-Monster\Bash-a-monster\obj\Debug\net6.0\Bash-a-monster.dll
+c:\Users\felixwilhelm.stalo\Documents\programering\c#_DEV\Bash-a-Monster\Bash-a-monster\obj\Debug\net6.0\refint\Bash-a-monster.dll
+c:\Users\felixwilhelm.stalo\Documents\programering\c#_DEV\Bash-a-Monster\Bash-a-monster\obj\Debug\net6.0\Bash-a-monster.pdb
+c:\Users\felixwilhelm.stalo\Documents\programering\c#_DEV\Bash-a-Monster\Bash-a-monster\obj\Debug\net6.0\Bash-a-monster.genruntimeconfig.cache
+c:\Users\felixwilhelm.stalo\Documents\programering\c#_DEV\Bash-a-Monster\Bash-a-monster\obj\Debug\net6.0\ref\Bash-a-monster.dll
